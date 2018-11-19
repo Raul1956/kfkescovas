@@ -1,0 +1,259 @@
+@charset "UTF-8";
+body {
+	padding: 0px;
+	background-image: url(../imagens/FUNDO-KFK.png);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 800px;
+	width: 1000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0in;
+	margin-left: auto;
+}
+#estrutura {
+	height: 200px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: none;
+	background-attachment: scroll;
+}
+#estrutura #superior {
+	height: 220px;
+}
+#estrutura #superior #titulologo {
+	width: 260px;
+	height: 130px;
+	background-image: url(LOGO%20KFK.png);
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+#estrutura #superior #menu {
+	font-family: "Century Gothic";
+	font-size: 23px;
+	text-decoration: none;
+	width: 670px;
+	margin-left: 320px;
+	margin-top: -100px;
+	background-color: #EE0000;
+	padding: 5px;
+}
+#estrutura #superior #menu a {
+	font-family: "Century Gothic";
+	text-decoration: none;
+	color: #FFF;
+	padding: 6px;
+}
+#estrutura #superior #menu a:hover {
+	font-family: "Century Gothic";
+	text-decoration: none;
+	color: #FFF;
+	background-color: #F00;
+	padding: 6px;
+}
+#estrutura #painel {
+	height: 400px;
+	text-align: center;
+	color: #EEE;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-family: "Century Gothic";
+	font-size: 25px;
+}
+#estrutura #painel2 {
+	height: 500px;
+	text-align: center;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+#estrutura #esp {
+	height: 70px;
+}
+#estrutura #rodape {
+	height: 100px;
+	font-family: "Century Gothic";
+	color: #FFF;
+	font-size: 15px;
+	text-align: center;
+	padding-top: -20px;
+	margin-top: 55px;
+}
+#estrutura #rodape2 {
+	height: 100px;
+	font-family: "Century Gothic";
+	color: #FFF;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 50px;
+}
+.painel1 {
+	height: 400px;
+	text-align: center;
+}
+.TITULOPRINCIPAL {
+	font-family: "Century Gothic";
+	font-size: 20px;
+	color: #EEE;
+	height: 30px;
+	width: 30px;
+}
+#estrutura #painel #painel2 {
+	height: 200px;
+}
+#estrutura #painel #fotosgeral {
+	height: 370px;
+}
+#estrutura #painel #fotosgeral2 {
+	height: 400px;
+}
+.textoquemsomos {
+	height: 200px;
+	font-family: "Century Gothic";
+	font-size: 15px;
+	text-align: center;
+	color: #EEE;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: 22px;
+	margin-top: 50px;
+}
+#estrutura #painel #painel3 {
+	height: 150px;
+}
+#estrutura #painel #painelaondesp {
+	height: 400px;
+}
+.fotosprodutos {
+	width: 230px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.voltarproduto {
+	font-family: "Century Gothic";
+	font-size: 15px;
+	color: #00F;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	text-decoration: none;
+}
+.voltar {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	color: #F00;
+	height: 20px;
+	margin-top: 20px;
+	text-decoration: none;
+	background-attachment: fixed;
+	float: none;
+}
+.posicaoprodutos {
+	text-align: center;
+	margin-top: 10px;
+	margin-right: 2.5px;
+	margin-bottom: 10px;
+	margin-left: 2.5px;
+}
+#estrutura #painel div logocliente {
+	height: 500px;
+}
+.acertologos {
+	margin-top: 3px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+#descricaoproduto {
+	height: 380px;
+}
+.titulovermelho {
+	color: #F00;
+	font-family: "Century Gothic";
+	font-size: 16px;
+	text-decoration: none;
+}
+.diagformulario {
+	font-family: "Century Gothic";
+	color: #00F;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 15px;
+}
+.textodescrproduto {
+	font-family: "Century Gothic";
+	font-size: 12px;
+	color: #000;
+}
+.painelindex {
+	margin-top: -5px;
+}
+#estrutura #painel div #painelaondesp {
+	height: 200px;
+}
+.contato {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	color: #000;
+	line-height: 19px;
+	margin-left: 10px;
+	text-align: left;
+}
+.contatoformulario {
+	font-family: "Century Gothic";
+	color: #EEE;
+	font-size: 18px;
+	margin-left: 350px;
+	margin-top: -10px;
+	font-weight: normal;
+	text-decoration: none;
+}
+.diretodiretoria {
+	color: #F00;
+	font-family: "Century Gothic";
+	font-size: 20px;
+	font-weight: bold;
+}
+.pontovoltar {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	color: #00F;
+	text-align: center;
+	text-decoration: none;
+}
+.formulario {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	font-weight: normal;
+	color: #EEE;
+	text-align: left;
+	padding-top: -100px;
+	height: 30px;
+}
+#estrutura #painel #textoprodutos {
+	height: 400px;
+	background-color: #CCC;
+}
+#voltar#continuar {
+}
+#estrutura #voltar {
+	color: #EEE;
+}
+#estrutura #painel #continuacao produtos {
+	font-family: "Century Gothic";
+	color: #00F;
+}
+.posicaoprodutos2 {
+	margin-top: 15px;
+	margin-right: 2.5px;
+	margin-bottom: 10px;
+	margin-left: 2.5px;
+}
+#estrutura #voltar .voltar .voltarproduto {
+	color: #EEE;
+}
